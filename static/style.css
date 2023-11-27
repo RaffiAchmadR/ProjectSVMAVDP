@@ -57,8 +57,8 @@ input {
   background: white;
   border-radius: 10px;
   border: none;
-  margin-top: 5px; /* Adjust margin as needed */
-  margin-bottom: 5px; /* Adjust margin as needed */
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .login-input select option:disabled {
@@ -69,7 +69,6 @@ input {
   cursor: pointer;
 }
 
-/* ... (existing styles) ... */
 
 
 .box-input {
